@@ -1,0 +1,31 @@
+.about {
+	.inner {
+		padding: $section-padding;
+		background-repeat: no-repeat;
+	    background-image: url(../images/about-01.jpg), url(../images/about-02.jpg), url(../images/about-03.jpg);
+		background-position: calc(100% - 290px) calc(50% - 150px), calc(100% - 290px) calc(50% + 150px), calc(100% - 60px) 50%;
+
+		h2 {
+			margin-bottom: 40px;
+		}
+
+		p {
+			max-width: 50%;
+		}
+
+		.btn {
+			padding: 20px 40px 18px;
+			margin-top: 40px;
+			color: $color-header;
+			border-color: $color-header;
+			box-shadow: 4px 4px 0px 0px $color-header;
+
+			&:not([disabled]) {
+				&:hover,
+				&:focus {
+					background: #ececec;
+				}
+			}
+		}
+	}
+}

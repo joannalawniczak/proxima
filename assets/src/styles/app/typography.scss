@@ -25,3 +25,10 @@ a {
 		color: $color-link-hover;
 	}
 }
+
+// Text styles.
+p {
+	font-family: $secondary-font;
+	font-size: 14px;
+	line-height: 2;
+}
