@@ -1,6 +1,4 @@
-# Static layout starter
-
-[![devDependency Status](https://david-dm.org/joannalawniczak/static-layout-starter/dev-status.svg)](https://david-dm.org/joannalawniczak/static-layout-starter?type=dev)
+# Static layout of Proxima company page
 
 ## Tech stack
 - Sass with Autoprefixer
