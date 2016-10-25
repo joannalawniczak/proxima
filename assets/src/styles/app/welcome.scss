@@ -19,6 +19,11 @@
 			align-items: center;
 			max-width: 480px;
 			margin: 0 auto;
+			padding-top: 20px;
+
+			.btn {
+				box-shadow: 0 30px 20px -15px $dark-blue;
+			}
 
 			img {
 				width: 200px;

@@ -1,12 +1,11 @@
 // General text styles.
 body {
-	font-family: $secondary-font;
+	font-family: $primary-font;
 	color: $color-text;
 }
 
 // Headers styles.
 h2, h3 {
-	font-family: $primary-font;
 	font-weight: 700;
 	color: $color-header;
 }
