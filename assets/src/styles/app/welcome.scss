@@ -1,0 +1,28 @@
+.welcome {
+	background-color: $blue;
+	background-image: url(../images/bg-welcome-01.jpg), url(../images/bg-welcome-02.jpg);
+	background-repeat: no-repeat;
+	background-position: left, right;
+
+	.inner {
+		padding-top: 190px;
+		padding-bottom: 190px;
+		text-align: center;
+
+		h2 {
+			color: #ffffff;
+		}
+
+		p {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			max-width: 480px;
+			margin: 0 auto;
+
+			img {
+				width: 200px;
+			}
+		}
+	}
+}
