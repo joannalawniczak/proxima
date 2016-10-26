@@ -1,0 +1,20 @@
+.history {
+	background: $grey;
+	margin: 0 auto;
+	max-width: 1400px;
+
+	.inner {
+		padding: $section-padding;
+		text-align: center;
+
+		div {
+			display: flex;
+			justify-content: space-between;
+			text-align: left;
+
+			p {
+				max-width: 47%;
+			}
+		}
+	}
+}

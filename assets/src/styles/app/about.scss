@@ -18,13 +18,17 @@
 			margin-top: 40px;
 			color: $color-header;
 			border-color: $color-header;
-			box-shadow: 4px 4px 0px 0px $color-header;
+			box-shadow: 4px 4px 0 0 $color-header;
 
 			&:not([disabled]) {
 				&:hover,
 				&:focus {
-					background: #ececec;
+					background: $grey;
 				}
+			}
+
+			&:active {
+				box-shadow: 2px 2px 0 0 $color-header;
 			}
 		}
 	}

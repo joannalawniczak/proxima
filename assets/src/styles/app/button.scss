@@ -10,8 +10,9 @@
 	font-weight: 500;
 	text-decoration: none;
 	cursor: pointer;
-	transition: all .3s;
-	box-shadow: 4px 4px 0px 0px $dark-blue;
+	transition: .3s;
+	transition-property: background-color, color;
+	box-shadow: 4px 4px 0 0 $dark-blue;
 
 	&:not([disabled]) {
 		&:hover,
@@ -24,6 +25,8 @@
 		&:active {
 			position: relative;
 			top: 2px;
+			left: 2px;
+			box-shadow: 2px 2px 0 0 $dark-blue;
 		}
 	}
 
