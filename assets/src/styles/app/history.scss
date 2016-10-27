@@ -7,14 +7,8 @@
 		padding: $section-padding;
 		text-align: center;
 
-		div {
-			display: flex;
-			justify-content: space-between;
+		p {
 			text-align: left;
-
-			p {
-				max-width: 47%;
-			}
 		}
 	}
 }
