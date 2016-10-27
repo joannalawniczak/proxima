@@ -1,0 +1,59 @@
+.services {
+	.inner {
+		text-align: center;
+		padding: $section-padding;
+
+		ul {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			list-style: none;
+			padding: 20px 0 0;
+
+			li {
+				display: inline-block;
+				padding-top: 110px;
+				width: 29%;
+				height: 150px;
+				line-height: 1.6;
+				background: 50% 0 no-repeat;
+			}
+
+			.terrain {
+				background-image: url(../images/terrain.svg);
+			}
+
+			.house {
+				background-image: url(../images/house.svg);
+			}
+
+			.pipe {
+				background-image: url(../images/pipe.svg);
+			}
+
+			.papers {
+				background-image: url(../images/papers.svg);
+			}
+
+			.drain {
+				background-image: url(../images/drain.svg);
+			}
+
+			.garbage {
+				background-image: url(../images/garbage.svg);
+			}
+
+			.geo {
+				background-image: url(../images/geo.svg);
+			}
+
+			.eye {
+				background-image: url(../images/eye.svg);
+			}
+
+			.road {
+				background-image: url(../images/road.svg);
+			}
+		}
+	}
+}
