@@ -22,7 +22,18 @@
 			padding-top: 20px;
 
 			.btn {
-				border-color: $dark-blue;
+				background-color: #ffffff;
+				color: $blue;
+				box-shadow: 0 20px 15px -10px $dark-blue;
+
+				&:not([disabled]) {
+					&:hover,
+					&:focus {
+						color: $dark-blue;
+						text-decoration: none;
+						background: #e9e9ff;
+					}
+				}
 			}
 
 			img {

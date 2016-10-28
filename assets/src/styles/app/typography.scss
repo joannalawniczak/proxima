@@ -18,16 +18,14 @@ h2 {
 // Link styles.
 a {
 	text-decoration: none;
-	color: $color-link;
 
 	&:hover {
 		text-decoration: underline;
-		color: $color-link-hover;
 	}
 }
 
 // Text styles.
-p, ul {
+p, ul, form {
 	font-family: $secondary-font;
 	font-size: 14px;
 	line-height: 2;

@@ -2,9 +2,9 @@
 	display: inline-block;
 	padding: 16px 30px 14px;
 	outline: 0;
-	border: solid 2px;
-	background: #ffffff;
-	color: $blue;
+	border: 0;
+	background: $blue;
+	color: #ffffff;
 	font-family: $secondary-font;
 	font-size: 14px;
 	font-weight: 500;
@@ -12,26 +12,22 @@
 	cursor: pointer;
 	transition: .3s;
 	transition-property: background-color, color;
-	box-shadow: 4px 4px 0 0 $dark-blue;
+	box-shadow: 0 20px 15px -10px $grey;
 
 	&:not([disabled]) {
 		&:hover,
 		&:focus {
-			color: $dark-blue;
+			background: $dark-blue;
 			text-decoration: none;
-			background: #f5f5ff;
 		}
 
 		&:active {
 			position: relative;
 			top: 2px;
-			left: 2px;
-			box-shadow: 2px 2px 0 0 $dark-blue;
 		}
 	}
 
 	&[disabled] {
-		border: solid 2px #d6d6d6;
 		color: #d6d6d6;
 		cursor: not-allowed;
 	}

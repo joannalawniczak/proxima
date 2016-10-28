@@ -1,0 +1,26 @@
+footer {
+	background-color: $blue;
+	color: #ffffff;
+
+	.inner {
+		padding: 30px;
+		text-align: center;
+
+		h2, a {
+			font-family: $secondary-font;
+			font-size: 14px;
+			font-weight: 400;
+			color: #ffffff;
+		}
+
+		p {
+			margin: 0;
+		}
+
+		.col-2 {
+			text-align: left;
+			margin: 0 auto;
+			width: 500px;
+		}
+	}
+}
