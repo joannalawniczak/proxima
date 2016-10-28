@@ -3,23 +3,21 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="145px" height="100px" viewBox="0 0 145 100" enable-background="new 0 0 145 100" xml:space="preserve">
-<g id="Layer_5">
-	<polygon fill="#DADAFF" points="106.083,46.425 106.083,50.425 82.083,50.425 82.083,42.425 86.083,42.425 86.083,34.425 
-		62.083,34.425 62.083,42.425 66.083,42.425 66.083,50.425 42.083,50.425 42.083,46.425 34.083,46.425 34.083,70.425 42.083,70.425 
-		42.083,66.425 106.083,66.425 106.083,70.425 114.083,70.425 114.083,46.425 	"/>
+<polygon fill="#DADAFF" points="106.083,52.425 106.083,56.425 82.083,56.425 82.083,48.425 86.083,48.425 86.083,40.425 
+	62.083,40.425 62.083,48.425 66.083,48.425 66.083,56.425 42.083,56.425 42.083,52.425 34.083,52.425 34.083,76.425 42.083,76.425 
+	42.083,72.425 106.083,72.425 106.083,76.425 114.083,76.425 114.083,52.425 "/>
+<g>
+	<polygon fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="79.083,52.425 79.083,44.425 
+		63.083,44.425 63.083,52.425 39.083,52.425 39.083,68.425 103.083,68.425 103.083,52.425 	"/>
+	<rect x="31.083" y="48.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="24"/>
+	<rect x="59.083" y="36.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="24" height="8"/>
+	<rect x="103.083" y="48.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="24"/>
 	<g>
-		<polygon fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="79.083,47.425 79.083,39.425 
-			63.083,39.425 63.083,47.425 39.083,47.425 39.083,63.425 103.083,63.425 103.083,47.425 		"/>
-		<rect x="31.083" y="43.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="24"/>
-		<rect x="59.083" y="31.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="24" height="8"/>
-		<rect x="103.083" y="43.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="24"/>
 		<g>
-			<g>
-				<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="43.083" y1="51.425" x2="46.083" y2="51.425"/>
-				
-					<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.6667,4.6667" x1="50.75" y1="51.425" x2="57.75" y2="51.425"/>
-				<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="60.083" y1="51.425" x2="63.083" y2="51.425"/>
-			</g>
+			<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="43.083" y1="56.425" x2="46.083" y2="56.425"/>
+			
+				<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.6667,4.6667" x1="50.75" y1="56.425" x2="57.75" y2="56.425"/>
+			<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="60.083" y1="56.425" x2="63.083" y2="56.425"/>
 		</g>
 	</g>
 </g>
