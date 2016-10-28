@@ -118,7 +118,7 @@ const tasks = {
 		const rollupPlugins = [
 			rollupBabel( {
 				exclude: 'node_modules/**',
-				presets: [ 'es2015-rollup' ]
+				// presets: [ 'es2015-rollup' ]
 			} ),
 			rollupCommonjs(),
 			rollupNodeResolve( {

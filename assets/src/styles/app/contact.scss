@@ -4,7 +4,7 @@
 		text-align: center;
 
 		form {
-			height: 380px;
+			height: 330px;
 			width: 35%;
 			margin: 0 auto;
 
@@ -33,7 +33,6 @@
 				.control {
 					width: 100%;
 					height: 36px;
-					padding: 0 0 6px;
 					border: solid #cccccc;
 					border-width: 0 0 1px;
 					outline: 0;
@@ -90,6 +89,19 @@
 			.btn {
 				margin-top: 10px;
 			}
+		}
+	}
+
+	.map {
+		height: 300px;
+		background: #d9d9d9;
+	}
+}
+
+@media all and (max-width: 960px) {
+	.contact {
+		.inner {
+			padding: $section-padding-960;
 		}
 	}
 }
