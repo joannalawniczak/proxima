@@ -40,4 +40,13 @@
 	}
 }
 
+@media all and (max-width: 700px) {
+	.about {
+		.inner {
+			padding: $section-padding-700;
+		}
+	}
+}
+
+
 

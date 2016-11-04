@@ -38,3 +38,23 @@ p, ul, form {
 		line-height: 44px;
 	}
 }
+
+@media all and (max-width: 736px) {
+	h2 {
+		font-size: 26px;
+		line-height: 38px;
+	}
+
+	p, ul, form {
+		line-height: 1.8;
+	}
+}
+
+@media all and (max-width: 600px) {
+	h2 {
+		font-size: 22px;
+		line-height: 32px;
+	}
+}
+
+

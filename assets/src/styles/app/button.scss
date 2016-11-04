@@ -12,7 +12,7 @@
 	cursor: pointer;
 	transition: .3s;
 	transition-property: background-color, color;
-	box-shadow: 0 20px 15px -10px $grey;
+	box-shadow: 0 20px 15px -10px #dddddd;
 
 	&:not([disabled]) {
 		&:hover,

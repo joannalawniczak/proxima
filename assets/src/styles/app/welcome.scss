@@ -53,3 +53,20 @@
 	}
 }
 
+@media all and (max-width: 760px) {
+	.welcome {
+		.inner {
+			padding-top: 90px;
+			padding-bottom: 90px;
+
+			p {
+				display: inline-block;
+
+				img {
+					display: none;
+				}
+			}
+		}
+	}
+}
+

@@ -34,3 +34,25 @@
 		}
 	}
 }
+
+@media all and (max-width: 700px) {
+	.history {
+		.inner {
+			padding: $section-padding-700;
+			text-align: left;
+
+			.col-2 {
+				display: inline-block;
+
+				.col {
+					width: 100%;
+				}
+
+				p:first-child {
+					padding-bottom: 30px;
+				}
+			}
+		}
+	}
+}
+

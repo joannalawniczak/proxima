@@ -43,6 +43,36 @@
 	.project {
 		.inner {
 			padding: $section-padding-960;
+
+			.logos {
+				img {
+					width: 50%;
+				}
+			}
 		}
 	}
 }
+
+@media all and (max-width: 720px) {
+	.project {
+		.inner {
+			.col-2 {
+				display: inline-block;
+
+				.col {
+					width: 100%;
+				}
+			}
+
+			.logos {
+				display: inline-block;
+
+				img {
+					width: 40%;
+				}
+			}
+		}
+	}
+}
+
+

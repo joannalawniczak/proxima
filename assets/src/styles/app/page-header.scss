@@ -109,6 +109,10 @@
 // Push page content below sticky header.
 body {
 	padding-top: $page-header-height;
+
+	@media all and (max-width: 760px) {
+		padding-top: 56px;
+	}
 }
 
 
@@ -202,3 +206,10 @@ body {
 	}
 }
 
+@media all and (max-width: 760px) {
+	.page-header {
+		.inner {
+			min-height: 56px;
+		}
+	}
+}
