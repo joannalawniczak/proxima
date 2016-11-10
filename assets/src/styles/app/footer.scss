@@ -15,12 +15,33 @@ footer {
 
 		p {
 			margin: 0;
+			padding: 0;
 		}
 
 		.col-2 {
-			text-align: left;
 			margin: 0 auto;
 			width: 500px;
+		}
+	}
+}
+
+@media all and (max-width: 600px) {
+	footer {
+		.inner {
+			width: 80%;
+
+			h2 {
+				line-height: 1.5;
+			}
+
+			.col-2 {
+				display: inline-block;
+				width: 100%;
+
+				.col {
+					width: 100%;
+				}
+			}
 		}
 	}
 }

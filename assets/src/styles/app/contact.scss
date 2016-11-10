@@ -98,10 +98,35 @@
 	}
 }
 
+@media all and (max-width: 1200px) {
+	.contact {
+		.inner {
+			form {
+				width: 45%;
+			}
+		}
+	}
+}
+
 @media all and (max-width: 960px) {
 	.contact {
 		.inner {
 			padding: $section-padding-960;
+
+			form {
+				width: 350px;
+			}
 		}
 	}
 }
+
+@media all and (max-width: 500px) {
+	.contact {
+		.inner {
+			form {
+				width: 100%;
+			}
+		}
+	}
+}
+
