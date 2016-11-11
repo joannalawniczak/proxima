@@ -3,39 +3,39 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="145px" height="100px" viewBox="0 0 145 100" enable-background="new 0 0 145 100" xml:space="preserve">
-<g id="Layer_3">
-	<g>
-		<polygon fill="#DADAFF" points="89.82,23.85 81.82,36.095 85.654,36.095 77.82,50.925 101.82,50.925 93.82,36.095 97.82,36.095 		
-			"/>
-		<g>
-			<circle fill="#DADAFF" cx="62.821" cy="52.425" r="9.833"/>
-		</g>
-	</g>
+<polygon fill="#DADAFF" points="111.737,29.85 103.737,42.095 107.571,42.095 99.737,56.925 123.737,56.925 115.737,42.095 
+	119.737,42.095 "/>
+<g>
+	<circle fill="#DADAFF" cx="37.821" cy="56.425" r="9.833"/>
 </g>
-<g id="Layer_2">
-	<path fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" d="M22.349,32.57c3.161-5.18,8.866-8.639,15.378-8.639
-		c6.732,0,12.602,3.696,15.688,9.17"/>
-	<path fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" d="M50.029,28.517c2.974-5.845,9.047-9.85,16.054-9.85
-		c6.677,0,12.504,3.635,15.61,9.034"/>
-	<path fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" d="M95.418,40.517c2.975-5.845,9.047-9.85,16.055-9.85
-		c6.676,0,12.504,3.635,15.61,9.034"/>
-	<polygon fill="none" stroke="#5E60FF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="87.083,19.592 
-		79.083,31.837 82.916,31.837 75.083,46.667 99.083,46.667 91.083,31.837 95.083,31.837 	"/>
-	<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="87.083" y1="46.667" x2="87.083" y2="54.667"/>
-	<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="110.25,50.667 114.25,54.667 
-		118.25,50.667 	"/>
-	<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="73.029,66.667 77.029,70.667 
-		81.029,66.667 	"/>
-	<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="99.557,66.667 103.557,70.667 
-		107.557,66.667 	"/>
-	<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="56.083,81 60.083,85 64.083,81 	"/>
-	<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="26.083,50.667 30.083,54.667 
-		34.083,50.667 	"/>
-	<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="40.083,66.667 44.083,70.667 
-		48.083,66.667 	"/>
-	<g>
-		<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="60.083" y1="58.001" x2="59.917" y2="69.334"/>
-		<circle fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" cx="60.083" cy="48.167" r="9.833"/>
-	</g>
+<path fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" d="M9.349,38.57c3.161-5.18,8.866-8.639,15.378-8.639
+	c6.732,0,12.602,3.696,15.688,9.17"/>
+<path fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" d="M37.029,34.517c2.974-5.845,8.047-9.85,15.054-9.85
+	c0.311,0,1.619,0.008,1.925,0.023"/>
+<path fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" d="M89.75,33.974c1.022-0.18,3.074-0.274,4.148-0.274
+	c3.052,0,5.926,0.759,8.443,2.099"/>
+<polygon fill="none" stroke="#5E60FF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="109,25.592 
+	101,37.837 104.833,37.837 97,52.667 121,52.667 113,37.837 117,37.837 "/>
+<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="109" y1="52.667" x2="109" y2="60.667"/>
+<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="59.265,74.667 63.265,78.667 
+	67.265,74.667 "/>
+<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="43.083,87 47.083,91 51.083,87 "/>
+<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="13.083,56.667 17.083,60.667 
+	21.083,56.667 "/>
+<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="81.75,81.125 85.75,85.125 89.75,81.125 
+	"/>
+<polyline fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="101,69.334 105,73.334 109,69.334 "/>
+<g>
+	<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="35.083" y1="62.001" x2="34.917" y2="73.334"/>
+	<circle fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" cx="35.083" cy="52.167" r="9.833"/>
 </g>
+<rect x="53" y="10.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="36" height="56"/>
+<rect x="57" y="18.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="73" y="18.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="57" y="30.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="73" y="30.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="57" y="42.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="73" y="42.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="57" y="54.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
+<rect x="73" y="54.5" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="12" height="4"/>
 </svg>

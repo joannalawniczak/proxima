@@ -14,13 +14,17 @@ footer {
 		}
 
 		p {
-			margin: 0;
-			padding: 0;
+			line-height: 1.5;
 		}
 
 		.col-2 {
 			margin: 0 auto;
-			width: 500px;
+			width: 510px;
+			text-align: left;
+
+			.phones {
+				width: 35%;
+			}
 		}
 	}
 }
@@ -37,6 +41,7 @@ footer {
 			.col-2 {
 				display: inline-block;
 				width: 100%;
+				text-align: center;
 
 				.col {
 					width: 100%;

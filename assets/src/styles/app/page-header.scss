@@ -111,7 +111,7 @@ body {
 	padding-top: $page-header-height;
 
 	@media all and (max-width: 700px) {
-		padding-top: 86px;
+		padding-top: 56px;
 	}
 }
 
@@ -209,7 +209,7 @@ body {
 @media all and (max-width: 700px) {
 	.page-header {
 		.inner {
-			min-height: 86px;
+			min-height: 56px;
 		}
 
 		.page-logo {

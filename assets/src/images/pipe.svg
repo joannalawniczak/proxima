@@ -1,24 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="145px" height="100px" viewBox="0 0 145 100" enable-background="new 0 0 145 100" xml:space="preserve">
-<polygon fill="#DADAFF" points="106.083,52.425 106.083,56.425 82.083,56.425 82.083,48.425 86.083,48.425 86.083,40.425 
-	62.083,40.425 62.083,48.425 66.083,48.425 66.083,56.425 42.083,56.425 42.083,52.425 34.083,52.425 34.083,76.425 42.083,76.425 
-	42.083,72.425 106.083,72.425 106.083,76.425 114.083,76.425 114.083,52.425 "/>
-<g>
-	<polygon fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="79.083,52.425 79.083,44.425 
-		63.083,44.425 63.083,52.425 39.083,52.425 39.083,68.425 103.083,68.425 103.083,52.425 	"/>
-	<rect x="31.083" y="48.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="24"/>
-	<rect x="59.083" y="36.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="24" height="8"/>
-	<rect x="103.083" y="48.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="24"/>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="145px"
+	 height="100px" viewBox="0 0 145 100" enable-background="new 0 0 145 100" xml:space="preserve">
+<g id="Layer_1">
+	<polygon fill="#DADAFF" points="106.083,47.425 106.083,51.425 82.083,51.425 82.083,43.425 86.083,43.425 86.083,35.425 
+		62.083,35.425 62.083,43.425 66.083,43.425 66.083,51.425 42.083,51.425 42.083,47.425 34.083,47.425 34.083,74.5 42.083,74.5 
+		42.083,70.5 106.083,70.5 106.083,74.5 114.083,74.5 114.083,47.425 	"/>
+	<polygon fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" points="79.083,47.425 79.083,39.425 
+		63.083,39.425 63.083,47.425 39.083,47.425 39.083,66.5 103.083,66.5 103.083,47.425 	"/>
+	<rect x="31.083" y="43.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="27.075"/>
+	<rect x="59.083" y="31.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="24" height="8"/>
+	<rect x="103.083" y="43.425" fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" width="8" height="27.075"/>
 	<g>
 		<g>
-			<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="43.083" y1="56.425" x2="46.083" y2="56.425"/>
+			<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" x1="9" y1="47.425" x2="12" y2="47.425"/>
 			
-				<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.6667,4.6667" x1="50.75" y1="56.425" x2="57.75" y2="56.425"/>
-			<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" x1="60.083" y1="56.425" x2="63.083" y2="56.425"/>
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.6,1.2" x1="13.2" y1="47.425" x2="17.4" y2="47.425"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="18,47.425 21,47.425 21,43.425 
+				24,43.425 			"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="26,43.425 29,43.425 29,46.425 			"/>
+			
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="7.0251,2.3417" x1="29" y1="48.767" x2="29" y2="66.329"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="29,67.5 29,70.5 26,70.5 			"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="24,70.5 21,70.5 21,66.5 18,66.5 			"/>
+			
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.6,1.2" x1="16.8" y1="66.5" x2="12.6" y2="66.5"/>
+			<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" x1="12" y1="66.5" x2="9" y2="66.5"/>
 		</g>
 	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" x1="133.083" y1="66.5" x2="130.083" y2="66.5"/>
+			
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.6,1.2" x1="128.883" y1="66.5" x2="124.683" y2="66.5"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="124.083,66.5 121.083,66.5 
+				121.083,70.5 118.083,70.5 			"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="116.083,70.5 113.083,70.5 
+				113.083,67.5 			"/>
+			
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="7.0251,2.3417" x1="113.083" y1="65.158" x2="113.083" y2="47.596"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="113.083,46.425 113.083,43.425 
+				116.083,43.425 			"/>
+			<polyline fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" points="118.083,43.425 121.083,43.425 
+				121.083,47.425 124.083,47.425 			"/>
+			
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.6,1.2" x1="125.283" y1="47.425" x2="129.483" y2="47.425"/>
+			
+				<line fill="none" stroke="#DADAFF" stroke-width="2" stroke-miterlimit="10" x1="130.083" y1="47.425" x2="133.083" y2="47.425"/>
+		</g>
+	</g>
+	
+		<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6,5" x1="113" y1="82.5" x2="29" y2="82.5"/>
+	
+		<line fill="none" stroke="#5E60FF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6,5" x1="85" y1="18.5" x2="57" y2="18.5"/>
+</g>
+<g id="Layer_2">
 </g>
 </svg>
