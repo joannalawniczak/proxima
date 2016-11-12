@@ -38,6 +38,7 @@
 
 				a {
 					position: relative;
+					display: block;
 					color: $color-header;
 					text-decoration: none;
 					font-size: 12px;
@@ -61,7 +62,7 @@
 						height: 1px;
 						background: $color-text;
 						opacity: 0;
-						transition: opacity .8s;
+						transition: opacity .3s;
 					}
 				}
 			}
