@@ -1,0 +1,17 @@
+.works {
+	background: $grey;
+	margin: 0 auto;
+	max-width: 1400px;
+
+	.inner {
+		padding: $section-padding;
+	}
+}
+@media all and (max-width: 960px) {
+	.works {
+		.inner {
+			padding: $section-padding-960;
+		}
+	}
+}
+

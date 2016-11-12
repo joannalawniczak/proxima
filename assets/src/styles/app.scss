@@ -3,9 +3,21 @@
 
 // Generic assets.
 @import './app/variables';
+@import './app/reset';
 @import './app/typography';
 @import './app/layout';
+@import './app/fonts';
+@import './app/button';
+@import './app/utils';
 
 // Theme assets.
 @import './app/page-header';
-@import './app/page-nav';
+@import './app/welcome';
+@import './app/about';
+@import './app/history';
+@import './app/services';
+@import './app/works';
+@import './app/project';
+@import './app/orders';
+@import './app/contact';
+@import './app/footer';

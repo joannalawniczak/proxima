@@ -1,12 +1,28 @@
+// Fonts Variables
+$primary-font: 'Poppins', Helvetica, sans-serif;
+$secondary-font: 'Work Sans', Georgia, serif;
+
 // Layout.
-$content-width: 1200px;
+$content-width: 1300px;
 $page-header-height: 70px;
 
+// Colors.
+$blue: #5e60ff;
+$dark-blue: #4b43ff;
+$grey: #eff0f2;
+
 // Text colors.
-$color-text: #000;
+$color-header: #292929;
+$color-text: #4b4b4b;
 
-$color-link: #000;
-$color-link-hover: #000;
+// Paddings.
+$layout-padding: 0 40px;
+$section-padding: 90px 40px 110px;
 
-// Breakpoints.
-$breakpoint-mobile-navigation: 860px;
+
+   // Mobile variables //
+
+// Paddings.
+$section-padding-960: 70px 40px 90px;
+$section-padding-700: 50px 20px 70px;
+$layout-padding-700: 0 20px;

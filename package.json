@@ -1,12 +1,12 @@
 {
-  "name": "static-layout-starter",
+  "name": "proxima",
   "version": "0.0.1",
-  "description": "Scaffolding for static layout.",
+  "description": "Static layout of Proxima company page.",
   "author": "Joanna Ławniczak <lawniczak.joanna@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:joannalawniczak/static-layout-starter.git"
+    "url": "git@github.com:joannalawniczak/proxima.git"
   },
   "scripts": {
     "build": "./node_modules/.bin/gulp build",
@@ -15,9 +15,7 @@
     "test": "./node_modules/.bin/gulp test"
   },
   "keywords": [
-    "static",
-    "layout",
-    "starter"
+    "proxima"
   ],
   "devDependencies": {
     "babel-preset-es2015-rollup": "^1.2.0",

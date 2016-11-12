@@ -1,5 +1,9 @@
 .inner {
 	max-width: $content-width;
-	padding: 0 20px;
+	padding: $layout-padding;
 	margin: 0 auto;
+
+	@media all and (max-width: 700px) {
+		padding: $layout-padding-700;
+	}
 }

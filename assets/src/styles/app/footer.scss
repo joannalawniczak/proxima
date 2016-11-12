@@ -1,0 +1,52 @@
+footer {
+	background-color: $blue;
+	color: #ffffff;
+
+	.inner {
+		padding: 30px;
+		text-align: center;
+
+		h2, a {
+			font-family: $secondary-font;
+			font-size: 14px;
+			font-weight: 400;
+			color: #ffffff;
+		}
+
+		p {
+			line-height: 1.5;
+		}
+
+		.col-2 {
+			margin: 0 auto;
+			width: 510px;
+			text-align: left;
+
+			.phones {
+				width: 35%;
+			}
+		}
+	}
+}
+
+@media all and (max-width: 600px) {
+	footer {
+		.inner {
+			width: 80%;
+
+			h2 {
+				line-height: 1.5;
+			}
+
+			.col-2 {
+				display: inline-block;
+				width: 100%;
+				text-align: center;
+
+				.col {
+					width: 100%;
+				}
+			}
+		}
+	}
+}

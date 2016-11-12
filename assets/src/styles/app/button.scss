@@ -1,0 +1,35 @@
+.btn {
+	display: inline-block;
+	padding: 16px 30px 14px;
+	outline: 0;
+	border: 0;
+	background: $blue;
+	color: #ffffff;
+	font-family: $secondary-font;
+	font-size: 14px;
+	font-weight: 500;
+	text-decoration: none;
+	cursor: pointer;
+	transition: .3s;
+	transition-property: background-color, color;
+	box-shadow: 0 20px 15px -10px #dddddd;
+
+	&:not([disabled]) {
+		&:hover,
+		&:focus {
+			background: $dark-blue;
+			text-decoration: none;
+		}
+
+		&:active {
+			position: relative;
+			top: 2px;
+		}
+	}
+
+	&[disabled] {
+		color: #d6d6d6;
+		cursor: not-allowed;
+	}
+}
+

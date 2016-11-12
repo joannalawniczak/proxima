@@ -1,0 +1,84 @@
+.services {
+	.inner {
+		text-align: center;
+		padding: $section-padding;
+
+		ul {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			list-style: none;
+			padding: 20px 0 0;
+
+			li {
+				display: inline-block;
+				padding-top: 110px;
+				padding-bottom: 50px;
+				width: 28%;
+				line-height: 1.6;
+				background: 50% 0 no-repeat;
+			}
+
+			.terrain {
+				background-image: url(../images/terrain.svg);
+			}
+
+			.pipe {
+				background-image: url(../images/pipe.svg);
+			}
+
+			.drain {
+				background-image: url(../images/drain.svg);
+			}
+
+			.geo {
+				background-image: url(../images/geo.svg);
+			}
+
+			.eye {
+				background-image: url(../images/eye.svg);
+			}
+
+			.road {
+				background-image: url(../images/road.svg);
+			}
+		}
+	}
+}
+
+@media all and (max-width: 960px) {
+	.services {
+		.inner {
+			padding: $section-padding-960;
+		}
+	}
+}
+
+@media all and (max-width: 700px) {
+	.services {
+		.inner {
+			padding: $section-padding-700;
+
+			ul {
+				li {
+					padding-top: 100px;
+					padding-bottom: 40px;
+					width: 40%;
+					line-height: 1.4;
+				}
+			}
+		}
+	}
+}
+
+@media all and (max-width: 500px) {
+	.services {
+		.inner {
+			ul {
+				li {
+					width: 60%;
+				}
+			}
+		}
+	}
+}
