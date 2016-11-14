@@ -1,16 +1,18 @@
 .welcome {
-	background-color: $blue;
+	background-color: $grey;
 	background-image: url(../images/bg-welcome-01.jpg), url(../images/bg-welcome-02.jpg);
 	background-repeat: no-repeat;
 	background-position: left, right;
 
 	.inner {
-		padding-top: 190px;
-		padding-bottom: 190px;
+		padding-top: 130px;
+		padding-bottom: 150px;
 		text-align: center;
 
 		h2 {
-			color: #ffffff;
+			span {
+				display: none;
+			}
 		}
 
 		p {
@@ -19,21 +21,6 @@
 			align-items: center;
 			max-width: 480px;
 			margin: 0 auto;
-
-			.btn {
-				background-color: #ffffff;
-				color: $blue;
-				box-shadow: 0 20px 15px -10px $dark-blue;
-
-				&:not([disabled]) {
-					&:hover,
-					&:focus {
-						color: $dark-blue;
-						text-decoration: none;
-						background: #e9e9ff;
-					}
-				}
-			}
 
 			img {
 				width: 200px;
@@ -47,8 +34,8 @@
 		background-image: none;
 
 		.inner {
-			padding-top: 140px;
-			padding-bottom: 140px;
+			padding-top: 100px;
+			padding-bottom: 110px;
 		}
 	}
 }
@@ -58,6 +45,16 @@
 		.inner {
 			padding-top: 90px;
 			padding-bottom: 90px;
+
+			h2 {
+				img {
+					display: none;
+				}
+
+				span {
+					display: inline-block;
+				}
+			}
 
 			p {
 				display: inline-block;
