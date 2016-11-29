@@ -63,24 +63,21 @@
 
 			.single-order {
 				& > div {
-					width: 75%;
-					padding-right: 50px;
+					width: 100%;
+					padding-right: 0;
 				}
 			}
 		}
 	}
 }
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 700px) {
 	.orders {
 		.inner {
+			padding: $section-padding-700;
+
 			.single-order {
 				display: inline-block;
-
-				& > div {
-					width: 100%;
-					padding-right: 0;
-				}
 
 				aside {
 					padding-top: 30px;

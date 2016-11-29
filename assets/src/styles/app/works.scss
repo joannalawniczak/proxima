@@ -23,18 +23,27 @@
 	}
 }
 
-.body-work {
-	padding: 0;
+@media all and (max-width: 700px) {
+	.works {
+		.inner {
+			padding: $section-padding-700;
+		}
+	}
 }
 
 .works-list {
-	li {
-		font-weight: 500;
-		color: $color-header;
+	.inner {
+		padding-top: 30px;
+		padding-bottom: 30px;
 
-		ol li {
-			font-weight: 400;
-			color: $color-text;
+		li {
+			font-weight: 500;
+			color: $color-header;
+
+			ol li {
+				font-weight: 400;
+				color: $color-text;
+			}
 		}
 	}
 }
