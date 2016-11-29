@@ -5,12 +5,36 @@
 
 	.inner {
 		padding: $section-padding;
+
+		ol li {
+			list-style: decimal;
+		}
+
+		.list {
+			padding-bottom: 30px;
+		}
 	}
 }
 @media all and (max-width: 960px) {
 	.works {
 		.inner {
 			padding: $section-padding-960;
+		}
+	}
+}
+
+.body-work {
+	padding: 0;
+}
+
+.works-list {
+	li {
+		font-weight: 500;
+		color: $color-header;
+
+		ol li {
+			font-weight: 400;
+			color: $color-text;
 		}
 	}
 }

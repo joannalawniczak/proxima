@@ -26,7 +26,7 @@ a {
 }
 
 // Text styles.
-p, ul, form {
+p, ul, ol, form {
 	font-family: $secondary-font;
 	font-size: 14px;
 	line-height: 2;
@@ -45,7 +45,7 @@ p, ul, form {
 		line-height: 1.4;
 	}
 
-	p, ul, form {
+	p, ul, ol, form {
 		line-height: 1.8;
 	}
 }
