@@ -23,7 +23,7 @@
 			margin: 0 auto;
 
 			img {
-				width: 200px;
+				width: 240px;
 			}
 		}
 	}
@@ -34,17 +34,17 @@
 		background-image: none;
 
 		.inner {
-			padding-top: 100px;
-			padding-bottom: 110px;
+			padding-top: 90px;
+			padding-bottom: 90px;
 		}
 	}
 }
 
-@media all and (max-width: 760px) {
+@media all and (max-width: 667px) {
 	.welcome {
 		.inner {
-			padding-top: 90px;
-			padding-bottom: 90px;
+			padding-top: 70px;
+			padding-bottom: 70px;
 
 			h2 {
 				img {
@@ -57,22 +57,25 @@
 			}
 
 			p {
-				display: inline-block;
+				max-width: 400px;
 
 				img {
-					display: none;
+					width: 200px;
 				}
 			}
 		}
 	}
 }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 500px) {
 	.welcome {
 		.inner {
 			h2 {
-				font-size: 20px;
-				line-height: 1.4;
+				padding: 0;
+			}
+
+			p {
+				display: none;
 			}
 		}
 	}
