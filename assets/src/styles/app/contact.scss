@@ -1,6 +1,6 @@
 .contact {
 	.inner {
-		padding: $section-padding;
+		padding: 90px 40px 70px;
 		text-align: center;
 
 		h3 {
@@ -130,7 +130,7 @@
 @media all and (max-width: 960px) {
 	.contact {
 		.inner {
-			padding: $section-padding-960;
+			padding: 70px 40px;
 
 			form {
 				width: 350px;
@@ -142,7 +142,7 @@
 @media all and (max-width: 700px) {
 	.contact {
 		.inner {
-			padding: $section-padding-700;
+			padding: 50px 20px;
 
 			.col-2 {
 				width: 250px;
