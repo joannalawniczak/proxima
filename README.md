@@ -1,17 +1,18 @@
-# Static layout of Proxima company page
+# Static layout of Proxima company page.
 
-## Tech stack
-- Sass with Autoprefixer
-- esnext JS by Rollup + Babel
-- JS unit tests by karma
-- JS code sniffing by ESLint
-- production and development build
+[![devDependency Status](https://david-dm.org/joannalawniczak/proxima/dev-status.svg)](https://david-dm.org/joannalawniczak/proxima?type=dev)
+
+## Preview:
+[http://joannalawniczak.github.io/proxima/](http://joannalawniczak.github.io/proxima/)
 
 ## Tasks
-- `gulp build` / `npm run build` - production build
-- `gulp build:debug` / `npm run build:debug` - development build, ends by watch
-- `gulp lint` / `npm run lint` - run ESLint
-- `gulp test` / `npm test` - run JS unit tests
+- `npm run build` - production build
+- `npm run build --debug` - development build
+- `npm run build --watch` - watch files and rebuild on change
+- `npm run lint` - run ESLint
+- `npm test` - run JS unit tests
+- `npm test --watch`
+- `npm test --coverage`
 
 ## Note:
 The author of JavaScript code is [Oskar Wróbel](https://github.com/oskarwrobel).
