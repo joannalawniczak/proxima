@@ -5,7 +5,6 @@ import FormValidator from '../../../node_modules/form-validator/src/form-validat
  */
 export default function contactForm() {
 	const formEl = document.querySelector( 'form' );
-	const submitEl = formEl.querySelector( '.btn' );
 
 	// Form validation
 	const formValidator = new FormValidator( formEl, {
@@ -19,19 +18,13 @@ export default function contactForm() {
 			},
 			message: {
 				required: 'Napisz wiadomość'
-			},
+			}
 		},
 		success: ( e ) => {
 			e.preventDefault();
 
-			submitEl.classList.add( 'loading' );
-			formValidator.disable();
-
-			setTimeout( () => {
-				submitEl.classList.remove( 'loading' );
-				formValidator.reset();
-				formValidator.enable();
-			}, 3000 );
+			formValidator.reset();
+			[].forEach.call( formEl.elements, ( el ) => el.classList.remove( 'not-empty' ) );
 		}
 	} );
 }
